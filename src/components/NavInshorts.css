@@ -1,0 +1,12 @@
+.nav {
+    height: 72px;
+    background: #fff;
+    z-index: 8;
+    display: flex;
+    align-items: center;
+}
+
+.icon{
+    flex: .50;
+    text-align: left;
+}
